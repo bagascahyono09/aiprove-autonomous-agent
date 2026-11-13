@@ -1,0 +1,236 @@
+{
+  "address": "0xb1b81f2d885bcbce7b152f9232b1883a43dc408f",
+  "apiBaseUrl": "https://aiprove.fun",
+  "deferredEntrySlugs": [
+    "retweet-and-quote-the-launch-post"
+  ],
+  "enteredSlugs": [
+    "write-article-aiprove",
+    "make-art-aiprove",
+    "make-meme-aiprove",
+    "refer-most-agents",
+    "post-on-x-aiprove",
+    "btc-tomorrow",
+    "eth-pnl-fixed",
+    "aiprove-mascot",
+    "explainer-video-aiprove",
+    "sample-agent-skillmd",
+    "forecast-btc-7d",
+    "spy-close-1dollar",
+    "top5-pons-24h",
+    "forecast-eth-24h",
+    "forecast-nvda-3d",
+    "signal-eth-pnl-24h",
+    "forecast-gold-tomorrow",
+    "code-golf-expr",
+    "fastest-primes",
+    "bug-hunt-utils",
+    "best-autonomous-agent"
+  ],
+  "entryResults": [
+    {
+      "entryId": "f654fd3d-0771-46b9-bda3-41d84c22df62",
+      "slug": "write-article-aiprove",
+      "submitKind": "link",
+      "verifiedAt": "2026-11-13T19:35:56Z"
+    },
+    {
+      "entryId": "4f54d5a2-1d11-45c9-8aa1-721727f693e4",
+      "slug": "make-art-aiprove",
+      "submitKind": "link",
+      "verifiedAt": "2026-11-13T19:35:59Z"
+    },
+    {
+      "entryId": "2552ddea-28f7-45a2-ad09-ac2742c7150e",
+      "slug": "make-meme-aiprove",
+      "submitKind": "link",
+      "verifiedAt": "2026-11-13T19:36:03Z"
+    },
+    {
+      "entryId": "1a7b0373-d747-4da8-a099-87023bd4523f",
+      "slug": "refer-most-agents",
+      "submitKind": "referral",
+      "verifiedAt": "2026-11-13T19:36:11Z"
+    },
+    {
+      "entryId": "3e482ae7-8da6-4dc6-8b59-68355cd49232",
+      "slug": "post-on-x-aiprove",
+      "submitKind": "link",
+      "verifiedAt": "2026-11-13T19:36:13Z"
+    },
+    {
+      "entryId": "c8a57d8a-6dae-4f11-89b8-99b6744047ea",
+      "slug": "btc-tomorrow",
+      "submitKind": "prediction",
+      "verifiedAt": "2026-11-13T19:36:18Z"
+    },
+    {
+      "entryId": "82b4a710-ed70-428c-9296-bf46e5d7a908",
+      "slug": "eth-pnl-fixed",
+      "submitKind": "repo",
+      "verifiedAt": "2026-11-13T19:36:20Z"
+    },
+    {
+      "entryId": "d7a2a656-73a1-43e9-b0b5-4d1099d892bb",
+      "slug": "aiprove-mascot",
+      "submitKind": "link",
+      "verifiedAt": "2026-11-13T19:36:29Z"
+    },
+    {
+      "entryId": "79e74fcd-2bf3-4602-8629-c2620b351fc7",
+      "slug": "explainer-video-aiprove",
+      "submitKind": "link",
+      "verifiedAt": "2026-11-13T19:36:31Z"
+    },
+    {
+      "entryId": "758aa5ad-0049-4083-80af-ad3bbae5d709",
+      "slug": "sample-agent-skillmd",
+      "submitKind": "repo",
+      "verifiedAt": "2026-11-13T19:36:35Z"
+    },
+    {
+      "entryId": "bb24e2ae-0780-48e4-8d93-1d146cbce0b3",
+      "slug": "forecast-btc-7d",
+      "submitKind": "prediction",
+      "verifiedAt": "2026-11-13T19:36:37Z"
+    },
+    {
+      "entryId": "dce055c1-7cb5-4c2e-8f1c-7e4f7906c1cf",
+      "slug": "spy-close-1dollar",
+      "submitKind": "prediction",
+      "verifiedAt": "2026-11-13T19:36:40Z"
+    },
+    {
+      "entryId": "4c0287b6-ef03-4628-a769-225d2f63eafc",
+      "slug": "top5-pons-24h",
+      "submitKind": "prediction",
+      "verifiedAt": "2026-11-13T19:36:42Z"
+    },
+    {
+      "entryId": "bcf2040e-cc75-498b-bcda-6f71fee8ae23",
+      "slug": "forecast-eth-24h",
+      "submitKind": "prediction",
+      "verifiedAt": "2026-11-13T19:36:46Z"
+    },
+    {
+      "entryId": "fc8b2893-7b01-4568-a45f-f7399cee176b",
+      "slug": "forecast-nvda-3d",
+      "submitKind": "prediction",
+      "verifiedAt": "2026-11-13T19:36:50Z"
+    },
+    {
+      "entryId": "a354f643-94e1-46eb-995c-603139656234",
+      "slug": "signal-eth-pnl-24h",
+      "submitKind": "prediction",
+      "verifiedAt": "2026-11-13T19:36:57Z"
+    },
+    {
+      "entryId": "c1687549-4793-49e8-86f9-0397442ea7bb",
+      "slug": "forecast-gold-tomorrow",
+      "submitKind": "prediction",
+      "verifiedAt": "2026-11-13T19:37:02Z"
+    },
+    {
+      "entryId": "042e5420-a3e9-4d1c-b899-8a97a9b264c7",
+      "slug": "code-golf-expr",
+      "submitKind": "repo",
+      "verifiedAt": "2026-11-13T19:37:05Z"
+    },
+    {
+      "entryId": "ffc1975f-626c-4e85-ba52-c165675323ab",
+      "slug": "fastest-primes",
+      "submitKind": "repo",
+      "verifiedAt": "2026-11-13T19:37:11Z"
+    },
+    {
+      "entryId": "0ecd3d5e-32a3-4efc-894a-875e40dc7e2c",
+      "slug": "bug-hunt-utils",
+      "submitKind": "bughunt",
+      "verifiedAt": "2026-11-13T19:37:13Z"
+    },
+    {
+      "entryId": "13b97f0d-01f7-40bf-b06a-83b53e0e9cd0",
+      "slug": "best-autonomous-agent",
+      "submitKind": "repo",
+      "verifiedAt": "2026-11-13T19:37:17Z"
+    }
+  ],
+  "errors": [],
+  "finishedAt": null,
+  "handle": "autonomous-demo",
+  "openBounties": [
+    "write-article-aiprove",
+    "make-art-aiprove",
+    "make-meme-aiprove",
+    "refer-most-agents",
+    "post-on-x-aiprove",
+    "btc-tomorrow",
+    "eth-pnl-fixed",
+    "aiprove-mascot",
+    "explainer-video-aiprove",
+    "sample-agent-skillmd",
+    "forecast-btc-7d",
+    "spy-close-1dollar",
+    "top5-pons-24h",
+    "forecast-eth-24h",
+    "forecast-nvda-3d",
+    "signal-eth-pnl-24h",
+    "forecast-gold-tomorrow",
+    "code-golf-expr",
+    "fastest-primes",
+    "bug-hunt-utils",
+    "best-autonomous-agent",
+    "retweet-and-quote-the-launch-post"
+  ],
+  "skillDocument": {
+    "bytes": 6754,
+    "fetchedAt": "2026-11-13T19:35:50Z",
+    "sha256": "e75460dcae691a89f5222e1a6b3ff9b98948a11ce2399130bd66ac092277b4e4",
+    "url": "https://aiprove.fun/skill.md"
+  },
+  "skips": [
+    {
+      "reason": "bounty has not opened yet; entry deferred",
+      "slug": "retweet-and-quote-the-launch-post",
+      "submitKind": "link",
+      "timestamp": "2026-11-13T19:37:22Z"
+    },
+    {
+      "reason": "needs build step",
+      "slug": "write-article-aiprove",
+      "submitKind": "link",
+      "timestamp": "2026-11-13T19:37:22Z"
+    },
+    {
+      "reason": "needs build step",
+      "slug": "make-art-aiprove",
+      "submitKind": "link",
+      "timestamp": "2026-11-13T19:37:22Z"
+    },
+    {
+      "reason": "needs build step",
+      "slug": "make-meme-aiprove",
+      "submitKind": "link",
+      "timestamp": "2026-11-13T19:37:22Z"
+    },
+    {
+      "reason": "needs build step",
+      "slug": "refer-most-agents",
+      "submitKind": "referral",
+      "timestamp": "2026-11-13T19:37:22Z"
+    },
+    {
+      "reason": "needs build step",
+      "slug": "post-on-x-aiprove",
+      "submitKind": "link",
+      "timestamp": "2026-11-13T19:37:22Z"
+    }
+  ],
+  "startedAt": "2026-11-13T19:35:41Z",
+  "submittedPredictions": [],
+  "summary": null,
+  "timestamps": {
+    "finishedAt": null,
+    "startedAt": "2026-11-13T19:35:41Z"
+  }
+}
